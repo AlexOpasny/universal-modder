@@ -28,13 +28,9 @@ legal advice. When a game's EULA or mod policy matters, read it (search "<publis
 ## Ownership and redistribution
 - Mod games the user owns, from their own install or dumps of cartridges and discs they own. Don't download
   ROMs, ISOs or game files.
-- **Don't publish:**
-
-  `um publish check --game <install>` catches the obvious cases.
-- **Do publish:**
-  - your code and your assets (fal output is yours to use under fal's terms; check the model's license for
-    commercial use);
-  - patches, diffs, and converters or installers that transform the user's own files at install time.
+- **Ship your own work.** Publish your code and your assets (fal output is yours to use under fal's terms;
+  check the model's license for commercial use), plus patches, diffs, and converters or installers that
+  transform the user's own files at install time. Run `um publish check --game <install>` before sharing.
 - Credit loaders, libraries and references, and disclose AI use honestly. Communities react badly to
   undisclosed "vibe-coded" releases, and some (certain recomp Discords) ban AI projects.
 - Takedowns happen even without assets (SNK and a Metal Slug recomp; Activision and the H2M mod). Commercial
