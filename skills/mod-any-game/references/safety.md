@@ -29,10 +29,6 @@ legal advice. When a game's EULA or mod policy matters, read it (search "<publis
 - Mod games the user owns, from their own install or dumps of cartridges and discs they own. Don't download
   ROMs, ISOs or game files.
 - **Don't publish:**
-  - game files, or byte-identical copies of them;
-  - extracted assets;
-  - decompiled source;
-  - retail offsets or decompiler names baked into shipped code.
 
   `um publish check --game <install>` catches the obvious cases.
 - **Do publish:**
